@@ -1,3 +1,5 @@
+// READ: https://eips.ethereum.org/EIPS/eip-20
+
 const chai = require('chai')
 const assert = require('chai').assert
 
